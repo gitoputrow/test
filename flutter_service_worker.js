@@ -3,14 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "58c2d0072e3634d8a08e61f10e9d2ea5",
-"assets/AssetManifest.json": "e06011bdf7bb3c0dc16345a3ccebc411",
-"assets/assets/bg.jpg": "7084e4dc777f448f274219b3451b7dbf",
+const RESOURCES = {"assets/AssetManifest.bin": "326da4ba824795cb5f3c4ddcb76e4099",
+"assets/AssetManifest.json": "2e3e7b0cfb1c1d6da463ba6f4ca9da21",
+"assets/assets/bg.jpg": "2b113a003b99a6569cf3d73d78a21392",
 "assets/assets/young-adults-standing-city-arms-raised-celebrating-generated-by-ai.jpg.crdownload": "8b58a142c5e948f05382fb5e4b15fae1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "6685f1309263b97f34e080aa1bc7151b",
-"assets/NOTICES": "4b26c56d056946aef1607ecc88af3da4",
+"assets/NOTICES": "6e444414c549c9a86cc04cb5beb3e139",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
+"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
+"assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
 "canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
@@ -25,9 +27,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "58c2d0072e3634d8a08e61f10e9d2ea5
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "78fcc22c96b3b0973faead7c10885c7e",
-"/": "78fcc22c96b3b0973faead7c10885c7e",
-"main.dart.js": "bcd47abc58c41dc72f9a3ecc6723f53e",
+"index.html": "66125c1a3a4066931a8e68bbbc035165",
+"/": "66125c1a3a4066931a8e68bbbc035165",
+"main.dart.js": "f47764be8c292f1a2c8a5eaf191247be",
 "manifest.json": "45aa126510f96a5877d8a6cf4ba88074",
 "version.json": "b8cc82d16c82fb88a9e2af4dbd50a043"};
 // The application shell files that are downloaded before a service worker can
