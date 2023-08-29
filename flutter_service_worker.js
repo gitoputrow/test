@@ -9,7 +9,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "326da4ba824795cb5f3c4ddcb76e4099
 "assets/assets/young-adults-standing-city-arms-raised-celebrating-generated-by-ai.jpg.crdownload": "8b58a142c5e948f05382fb5e4b15fae1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "0fef66d0edb67895097fe68b1c8761c9",
-"assets/NOTICES": "c9a2fa6f64256eb5f40ce1f7bbf3ac11",
+"assets/NOTICES": "5552b7fc1f5ab44266aaa5f6e31fb99f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
@@ -27,9 +27,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "326da4ba824795cb5f3c4ddcb76e4099
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5985a17e6086a58fb90f90964cb72eab",
-"/": "5985a17e6086a58fb90f90964cb72eab",
-"main.dart.js": "6e31049dd197c468fe3cb88831293040",
+"index.html": "54c1e32a050382f2aad80146004181e7",
+"/": "54c1e32a050382f2aad80146004181e7",
+"main.dart.js": "5a38db1b0129c9fdc0bd2360e8e4bdce",
 "manifest.json": "45aa126510f96a5877d8a6cf4ba88074",
 "version.json": "b8cc82d16c82fb88a9e2af4dbd50a043"};
 // The application shell files that are downloaded before a service worker can
