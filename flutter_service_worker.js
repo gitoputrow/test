@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "326da4ba824795cb5f3c4ddcb76e4099",
+const RESOURCES = {"404.html": "b59687cb7b88efc6b9a2965632a96f64",
+"assets/AssetManifest.bin": "326da4ba824795cb5f3c4ddcb76e4099",
 "assets/AssetManifest.json": "2e3e7b0cfb1c1d6da463ba6f4ca9da21",
 "assets/assets/bg.jpg": "2b113a003b99a6569cf3d73d78a21392",
 "assets/assets/young-adults-standing-city-arms-raised-celebrating-generated-by-ai.jpg.crdownload": "8b58a142c5e948f05382fb5e4b15fae1",
@@ -27,8 +28,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "326da4ba824795cb5f3c4ddcb76e4099
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "efee8637d5252925da838e7c6b918867",
-"/": "efee8637d5252925da838e7c6b918867",
+"index.html": "414268e49e9cc22f734f2d3942ab492b",
+"/": "414268e49e9cc22f734f2d3942ab492b",
 "main.dart.js": "876e1222cd4b57bcb762952737344358",
 "manifest.json": "1462829b3c69aaef123acfba31e278dc",
 "version.json": "b8cc82d16c82fb88a9e2af4dbd50a043"};
